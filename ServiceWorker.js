@@ -1,9 +1,9 @@
 const cacheName = "RLP-MANIC Episode 3-2";
 const contentToCache = [
-    "Build/manic 3 html build.loader.js",
-    "Build/manic 3 html build.framework.js",
-    "Build/manic 3 html build.data",
-    "Build/manic 3 html build.wasm",
+    "Build/manic123.loader.js",
+    "Build/manic123.framework.js",
+    "Build/manic123.data",
+    "Build/manic123.wasm",
     "TemplateData/style.css"
 
 ];
